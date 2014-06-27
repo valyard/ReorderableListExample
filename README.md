@@ -1,4 +1,4 @@
-Example project for ReorderableList in Unity 4.5
+Example project for ReorderableList in Unity
 ======================
 
 In Unity 4.5 we got a nice (undocumented) built-in tool to visualize lists in IDE. It's called ReorderableList, it's located in UnityEditorInternal namespace and looks like this:
